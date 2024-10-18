@@ -1,0 +1,5 @@
+streamlit==1.39.0
+pydeck==0.8.1b0
+pyannote.database==5.1.0
+pandas==2.2.2
+scikit-learn==1.2.2
